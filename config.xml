@@ -6,10 +6,10 @@
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>Sri Vyshnavi Chetana PU Science College</name>
+    <name>Moodle</name>
 
     <description>
-        Moodle official app
+        Sri Vyshnavi Chetana PU Science college official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
